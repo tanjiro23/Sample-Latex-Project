@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Major Topics in JEE \scshape {Mains}}{2}%
+\contentsline {section}{\numberline {2}Major Topics in JEE \textsc {Advanced}}{3}%
+\contentsline {section}{\numberline {3}Recommended Books}{3}%
+\contentsline {section}{\numberline {4}Equations}{5}%
+\contentsline {subsection}{\numberline {4.1}Rotation Matrix}{5}%
+\contentsline {subsection}{\numberline {4.2}Continuity}{5}%
+\contentsline {subsection}{\numberline {4.3}Exponential Function}{5}%
+\contentsline {subsection}{\numberline {4.4}Heron's Formula}{5}%
+\contentsline {subsection}{\numberline {4.5}General Polynomial}{5}%
+\contentsline {section}{\numberline {5}Psuedocode for Quicksort Algorithm}{5}%
+\contentsline {section}{\numberline {6}Topics Weightage in Mathematics in JEE Mains}{6}%
